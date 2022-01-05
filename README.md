@@ -1,2 +1,2 @@
 # Rubber-Ducky-Script
-This is simple hello world  script
+This is a simple hello world  script
